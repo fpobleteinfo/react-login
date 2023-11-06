@@ -1,0 +1,25 @@
+#root {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.tarjeta-login{
+
+  padding: 1rem;
+
+}
+
+.redes-sociales{
+
+display: flex;
+justify-content: center;
+gap: 1rem;
+padding: 1rem;
+
+}
+
+.alert-area{
+  padding-top: 1rem;
+}
